@@ -1,0 +1,23 @@
+n = int(input())
+
+#GREATER THAN MOD = ODD , LESS THAN MOD = EVEN 
+
+n1=n%2                  
+if n in range(1,101):
+    if n in range (6,21):
+        print("Weird")
+    elif n1>0:
+        print("Weird")
+
+    else:
+        print("Not Weird")
+        
+        
+------------------------------------------------------------------------
+# ONE LINER USING LAMBDA FUNCTION TAKEN FROM ANOTHER SOURCE :
+
+print((lambda n:'Weird' if n % 2 or 5 < n < 21 else 'Not Weird')(int(input())))
+
+
+------------------------------------------------------------------------
+

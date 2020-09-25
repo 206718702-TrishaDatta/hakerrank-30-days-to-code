@@ -7,3 +7,4 @@ DAY 1 LINK : https://www.hackerrank.com/challenges/30-data-types/problem
 DAY 2 LINK : https://www.hackerrank.com/challenges/30-operators/problem
 DAY 3 LINK : https://www.hackerrank.com/challenges/30-conditional-statements/problem
 DAY 4 LINK : https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+Day 5: Loops - LINK : https://www.hackerrank.com/challenges/30-loops/problem

@@ -1,0 +1,19 @@
+
+import math
+import os
+import random
+import re
+import sys
+lst=[]
+
+for i in range(int(input())):
+    a=input().strip().split(" ")
+    n=a[0]
+    m=a[1]
+    o=m.strip().split("@")
+    p=o[1]
+    if p=="gmail.com":
+        lst.append(n)
+    else:
+        pass
+print(*sorted(lst),sep='\n')
